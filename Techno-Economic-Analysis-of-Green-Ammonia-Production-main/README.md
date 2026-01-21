@@ -1,10 +1,10 @@
-﻿# TECHNO-ECONOMIC ANALYSIS AND PROCESS OPTIMIZATION OF A 19 TPD GREEN AMMONIA PILOT PLANT
+﻿#Process-Modeling-and-Economic-Assessment-of-a-19-TPD-Green-Ammonia-Facility
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Tools](https://img.shields.io/badge/Tools-DWSIM%20%7C%20Python-blue)
 ![Domain](https://img.shields.io/badge/Domain-Chemical%20Process%20Engineering-orange)
 
-**Author:** Hetram
+**Author:** KHUSHVANT CHOUHAN
 >
 **Tool:** DWSIM Open Source Process Simulator & Python
 
